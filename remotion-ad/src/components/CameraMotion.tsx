@@ -3,7 +3,7 @@ import { AbsoluteFill, Img, interpolate, spring, staticFile, useCurrentFrame, us
 
 /**
  * Camera motion effects applied to background images.
- * Simulates cinematic camera movements over still photos.
+ * Simulates cARCKHÉtic camera movements over still photos.
  */
 
 export type CameraEffect =

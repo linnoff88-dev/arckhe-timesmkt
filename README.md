@@ -102,7 +102,7 @@ Verificar quais estêÂ£o ativos: `npm run media:status`
 
 ## Efeitos de CêÂ¢mera nos VêÂ­deos
 
-Movimentos aplicados sobre fotos de fundo simulando cêÂ¢mera cinematogrêÂ¡fica:
+Movimentos aplicados sobre fotos de fundo simulando cêÂ¢mera cARCKHÉtogrêÂ¡fica:
 
 | Efeito | DescriêÂ§êÂ£o | Uso automêÂ¡tico |
 |---|---|---|
